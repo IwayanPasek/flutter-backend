@@ -12,7 +12,8 @@
       "url": "https://bloomberg.com",
       "emoji": "🤖",
       "color": "0xFF6366F1",
-      "readTime": "5 menit"
+      "readTime": "5 menit",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=800&auto=format&fit=crop"
     },
     {
       "id": 2,
@@ -25,18 +26,22 @@
       "url": "https://technologyreview.com",
       "emoji": "⚡",
       "color": "0xFFEC4899",
-      "readTime": "6 menit"
+      "readTime": "6 menit",
+      "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?q=80&w=800&auto=format&fit=crop"
     },
     {
-    "id": 2,
-      "title": "19JT lapangan pekejeraan",
-      "summary": "semara berhasil menciptakan 19jt lapangan pekerjaan.",
-      "content": "seseorang bernama semara berhasil menciptakan 19jt lapangan pekerjaan yaitu investasi coin sapi,kabarnya orang yang takut dengan sapi ini malah sukses karena sapi",
+      "id": 3,
+      "title": "19JT Lapangan Pekerjaan",
+      "summary": "Kadek Semaradana berhasil menciptakan 19jt lapangan pekerjaan.",
+      "content": "Seseorang bernama Semara berhasil menciptakan 19jt lapangan pekerjaan yaitu investasi coin sapi, kabarnya orang yang takut dengan sapi ini malah sukses karena sapi.",
+      "category": "Viral",
       "date": "21 Apr 2026",
       "source": "MIT Tech Review",
       "url": "https://technologyreview.com",
-      "emoji": "⚡",
-      "color": "0xFFEC4899",
-      "readTime": "6 menit"
+      "emoji": "🐄",
+      "color": "0xFFF59E0B",
+      "readTime": "6 menit",
+      "image": "https://images.unsplash.com/photo-1596733430284-f7437764b1a9?q=80&w=800&auto=format&fit=crop"
+    }
   ]
 }
